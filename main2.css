@@ -1,0 +1,228 @@
+#home{background-image: url(./image/drew-coffman-1872.jpg);
+height: 100vh;
+
+background-size: 100% 100%;
+
+text-align: center;
+padding: 60px;
+}
+.css{
+    margin-top: 80px;
+height: 300px;
+
+
+}
+.p1{
+    font-size: 24px;
+margin: 10px 0px 20px;
+ .alegreya-sans-regular {
+    font-family: "Alegreya Sans", serif;
+    font-weight: 400;
+    font-style: normal;
+  } color: aliceblue;}
+  h1{.alegreya-sans-black {
+    font-family: "Alegreya Sans", serif;
+    font-weight: 200;
+    font-style: normal;
+  }color: aliceblue;
+font-size: 50px;}
+  h2{.alegreya-sans-black {
+    font-family: "Alegreya Sans", serif;
+    font-weight: 400;
+    font-style: normal;
+  }color: aliceblue;}
+
+
+  .button1{margin: 0px 0px 12px;
+    padding: 15px 28px;
+    background-color: transparent;
+    background-color:#8E7754;
+    color: white;
+    border-radius: 5px;
+    border-color: transparent;
+    font-family:"Alegreya Sans", serif;
+        font-weight: 900px;
+        font-style: normal;
+        font-size: 20px ;
+    
+    }
+    .button1:hover {
+        background-color: white;
+        color: black;
+      }
+  .button2{margin: 0px 0px 12px 12px;
+    padding: 15px 28px;
+    background-color: transparent;
+    background-color:transparent;
+    color: white;
+    border-color: #FFFFFF;
+    border-radius: 8px;
+    font-family:"Alegreya Sans", serif;
+        font-weight: 900px;
+        font-style: normal;
+        font-size: 20px ;
+    
+    }
+    .button2:hover {
+        background-color: white;
+        color: black;
+      }
+
+
+      *{margin: 0%;}
+      p{padding-right:18%;
+      padding-left: 20%;
+  }
+      .about img{margin: 40px 30px;
+        width: 35%;
+        float: left;
+      
+      }
+      .about .about-info{        
+      width: 50%;
+    float: left;
+  padding-top: 10%;
+  
+  }
+  .clr{clear: both;}
+  .about-info h2{color: black;} 
+  .about-info p{color: #686868;
+  font-family:"Alegreya Sans", serif;
+        font-weight: 400px;
+        font-style: normal;
+        font-size: 20px ; ;
+  }
+  .about-info ul {padding-top: 5%;
+  font-size: large;
+  
+  }
+  .about-info .ico1, .ico2, .ico3, .ico4{color: #686868;
+  
+  }
+
+  .ico1{padding-top: 30px;}
+  .ico2{padding-top: 30px;}
+  .ico3{padding-top: 30px;}
+  .ico4{padding-top: 30px;}
+  #img{padding: 60px;
+    width: 35%;
+    float: left;
+  
+  }
+  .clr7{clear: both;}
+  .in{        
+  width: 50%;
+float: left;
+padding-top: 10%;
+font-family: "Alegreya Sans", serif;
+        font-weight: 400px;
+        font-style: normal;
+        font-size: 20px ; ;;
+}
+.in h2{color: black;
+padding-left: 12%;
+font-size: 40px;
+padding-bottom: 6%;}
+.clr{clear: both;}
+.navbar img{width: 15%;
+float: left;
+padding: 15px;}
+.navbar ul{float: right;
+list-style: none;}
+.clr{clear: both;}
+.navbar ul a{color: white;
+text-decoration:none ;}
+.navbar ul li{display: inline-block;
+padding: 20px;
+font-family: "Alegreya Sans", serif;
+        font-weight: 400px;
+        font-style: normal;
+        font-size: 20px ;
+}
+.navbar li :hover {
+  color: #8E7754;
+
+}
+.navbar{height: 0px;}
+#demo img{width: 30%;
+float: left;}
+.clr{clear: both;}
+#demo h3{text-align: center;}
+#imger img{width: 27%;
+border-radius: 50px;}
+#lr{text-align: center;
+padding-top: 40px;}
+#lr h3{font-family: "Alegreya Sans", serif;
+  font-weight: 400px;
+  font-style: normal;
+  font-size: 20px ; ;
+font-size: xx-large;}
+#lr p{font-family:  "Alegreya Sans", serif;
+  font-weight: 400px;
+  font-style: normal;
+  font-size: 20px ; ;;}
+  #imger{width: 100%;
+  text-align: center;}
+  #im{text-align: center;
+  display: inline;}
+
+#iframe{float: right;
+background-color: #F8F8F8;}
+#inf h2{color: black;
+padding-bottom: 20px;
+padding-left: 30px;
+}
+#inf p{padding-top: 50px;
+padding-left: 40px;
+}
+
+.list1{list-style: outside;
+padding-top: 30px;}
+.list2{list-style: outside;
+padding-top: 30px;}
+.list3{list-style: outside;
+padding-top: 30px;}
+.list4{list-style: outside;
+padding-top: 30px;}
+#iframe{
+}
+.clr{clear:both;}
+.clr4{clear: both;}
+
+
+#big{background-color: #403D38;
+  width: 100%;
+  display: inline-block;
+}
+#big h4{text-align: center;
+padding-top: 40px;
+padding-bottom: 30px;
+font-family:"Alegreya Sans", serif;
+  font-weight: 400px;
+  font-style: normal;
+  font-size: 20px ;
+font-size: xx-large;
+background-color: #403D38;}
+#big p{font-family: "Alegreya Sans", serif;
+  font-weight: 400px;
+  font-style: normal;
+  font-size: 20px ; ;
+font-size: large;
+color: #686868;
+background-color: #403D38;}
+#big ul{font-family: "Alegreya Sans", serif;
+  font-weight: 400px;
+  font-style: normal;
+  font-size: 20px ; 
+font-size: large;
+color: #686868;
+background-color: #403D38;}
+.clr{clear: both;}
+#big{background-color: #403D38;}
+#iframe{background-color: #F8F8F8;}
+#big li{background-color: #403D38;}
+.clr3{clear: both;}
+#usAbout p{text-align: center;}
+#imglogo{
+text-align: center;
+}
